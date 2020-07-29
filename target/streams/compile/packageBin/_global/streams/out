@@ -1,0 +1,23 @@
+[debug] Packaging D:\IdeaProjects\Akka Actors Ping Pong\target\scala-2.13\akka-actors-ping-pong_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	application.conf
+[debug] 	  D:\IdeaProjects\Akka Actors Ping Pong\target\scala-2.13\classes\application.conf
+[debug] 	Main$$anon$1.class
+[debug] 	  D:\IdeaProjects\Akka Actors Ping Pong\target\scala-2.13\classes\Main$$anon$1.class
+[debug] 	Main$.class
+[debug] 	  D:\IdeaProjects\Akka Actors Ping Pong\target\scala-2.13\classes\Main$.class
+[debug] 	Main$GameInit$.class
+[debug] 	  D:\IdeaProjects\Akka Actors Ping Pong\target\scala-2.13\classes\Main$GameInit$.class
+[debug] 	Main$GameInit.class
+[debug] 	  D:\IdeaProjects\Akka Actors Ping Pong\target\scala-2.13\classes\Main$GameInit.class
+[debug] 	Main$Ping$.class
+[debug] 	  D:\IdeaProjects\Akka Actors Ping Pong\target\scala-2.13\classes\Main$Ping$.class
+[debug] 	Main$Ping.class
+[debug] 	  D:\IdeaProjects\Akka Actors Ping Pong\target\scala-2.13\classes\Main$Ping.class
+[debug] 	Main$PingPong.class
+[debug] 	  D:\IdeaProjects\Akka Actors Ping Pong\target\scala-2.13\classes\Main$PingPong.class
+[debug] 	Main$Pong$.class
+[debug] 	  D:\IdeaProjects\Akka Actors Ping Pong\target\scala-2.13\classes\Main$Pong$.class
+[debug] 	Main.class
+[debug] 	  D:\IdeaProjects\Akka Actors Ping Pong\target\scala-2.13\classes\Main.class
+[debug] Done packaging.

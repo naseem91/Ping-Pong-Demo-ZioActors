@@ -1,0 +1,9 @@
+[debug] Acquiring lock on file C:\Users\Dell\IdeaProjects\Akka Actors Ping Pong\project\target\.sbt-compilation-infos\akka-actors-ping-pong-compile\.sbt-idea-lock ...
+[error] C:\Users\Dell\IdeaProjects\Akka Actors Ping Pong\src\main\scala\GameInit.scala:11:1: expected class or object definition
+[error] val protoHandler = new Stateful[Console, Unit, PingPong] {
+[error] ^
+[error] C:\Users\Dell\IdeaProjects\Akka Actors Ping Pong\src\main\scala\GameInit.scala:38:1: expected class or object definition
+[error] val program = for {
+[error] ^
+[error] two errors found
+[debug] Releasing lock on file C:\Users\Dell\IdeaProjects\Akka Actors Ping Pong\project\target\.sbt-compilation-infos\akka-actors-ping-pong-compile\.sbt-idea-lock.
